@@ -1,0 +1,10 @@
+<resources>
+    <style name="Base.Theme.GithubUser" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Colors.Light" parent="Theme.MaterialComponents.Light">
+        <item name="iconTint">@color/black</item>
+    </style>
+
+    <style name="Theme.GithubUser" parent="Base.Theme.GithubUser" />
+</resources>

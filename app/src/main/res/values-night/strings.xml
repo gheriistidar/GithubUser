@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="name">nama</string>
+    <string name="searchbar_hint">Cari User</string>
+    <string name="name_detail">Name</string>
+    <string name="username">Username</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="followers_count">%d Followers</string>
+    <string name="following_count">%d Following</string>
+    <string name="favorite_title">Favorite</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="send_to">Bagikan</string>
+    <string name="setting_title">Setting</string>
+
+</resources>
